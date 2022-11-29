@@ -1,0 +1,14 @@
+
+
+.parent {
+    background-color: aqua;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+}
+
+.child {
+    background-color: black;
+    color: azure;
+    padding: 0.5em;
+}
